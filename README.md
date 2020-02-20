@@ -1,4 +1,4 @@
-## JetBrains Mono now supports Powerline
+## [Updated] JetBrains Mono now supports Powerline
 See more https://github.com/JetBrains/JetBrainsMono/releases/tag/v1.0.3
 
 -----
